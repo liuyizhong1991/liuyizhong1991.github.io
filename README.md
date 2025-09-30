@@ -1,6 +1,6 @@
 # Yizhong Liu's Academic Website
 
-Deployed on Github Pages: [https://yizhongliu.github.io/](https://yizhongliu.github.io/)
+Deployed on Github Pages: [https://yizhongliu1991.github.io/](https://yizhongliu1991.github.io/)
 
 Run Local：bundle binstubs jekyll
 
